@@ -1,0 +1,1 @@
+mysql:host=localhost;dbname=guitar_shop;port=3306,guitar_shop_app,testpassword2023
